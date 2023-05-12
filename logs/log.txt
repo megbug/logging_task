@@ -1,0 +1,9 @@
+
+
+log :: Fri, 12 May 2023 15:18:22 GMT :: na 
+warn :: Fri, 12 May 2023 15:18:22 GMT :: abc 
+error :: Fri, 12 May 2023 15:18:22 GMT :: 10 
+info :: Fri, 12 May 2023 15:18:22 GMT :: ich bin eine info 
+info :: Fri, 12 May 2023 15:18:22 GMT :: show me results 
+error :: Fri, 12 May 2023 15:18:22 GMT :: ich bin ein error 
+warn :: Fri, 12 May 2023 15:18:22 GMT :: ich bin ein warning 
